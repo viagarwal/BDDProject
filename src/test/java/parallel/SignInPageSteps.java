@@ -3,7 +3,6 @@ package parallel;
 import com.pages.SignInPage;
 import com.qa.factory.DriverFactory;
 
-import AppHooks.ApplicationHooks;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

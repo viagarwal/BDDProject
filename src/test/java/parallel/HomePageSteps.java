@@ -5,7 +5,6 @@ import org.junit.Assert;
 import com.pages.HomePage;
 import com.qa.factory.DriverFactory;
 
-import AppHooks.ApplicationHooks;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
