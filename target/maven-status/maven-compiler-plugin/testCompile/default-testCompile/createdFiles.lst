@@ -1,0 +1,4 @@
+AppHooks\ApplicationHooks.class
+parallel\HomePageSteps.class
+parallel\SignInPageSteps.class
+parallel\TestRunnerTest.class
